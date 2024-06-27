@@ -1,29 +1,44 @@
-![MasterHead](https://cdn.dribbble.com/users/107759/screenshots/3742849/media/bde44cea22b34aaed2deeae46c32d5c8.gif)
-<h1 align="center">Hello There👋, I'm Sahil Bhatia</h1>
-<h3 align="center">Passionate about AI/ML</h3>
-<!-- <img align="centre" alt="coding" width="400" src="https://media.tenor.com/wA8Gx_UqnY4AAAAM/coding.gif"> -->
+![MasterHead](https://i.pinimg.com/originals/b9/08/86/b90886beff7a7664af28e02792674ce7.gif)
+# Hello There👋, I'm Sahil Bhatia
+### Passionate about AI/ML
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itssahillwhat&label=Profile%20views&color=0e75b6&style=flat" alt="itssahillwhat" /> </p>
+![Profile Views](https://komarev.com/ghpvc/?username=itssahillwhat&label=Profile%20views&color=000000&style=flat)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itssahillwhat" alt="itssahillwhat" /></a> </p>
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Python, Mathematics for ML and Data Science**
-
 - 📫 How to reach me **bhatiasahil1515@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/itssahillwhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itssahillwhat" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sahil-bhatia-140610250" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil-bhatia-140610250" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/itssahilwhat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="itssahilwhat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bhatiasahil1515" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhatiasahil1515" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/itssahillwhat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="itssahillwhat" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bhatiasaga1q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bhatiasaga1q" height="30" width="40" /></a>
-</p>
+## Connect with me:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/itssahillwhat)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-bhatia-140610250/)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=x)](https://twitter.com/itssahillwhat)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatiasahil1515@gmail.com)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itssahillwhat&show_icons=true&locale=en&layout=compact" alt="itssahillwhat" /></p>
+## Languages and Tools:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itssahillwhat&show_icons=true&locale=en" alt="itssahillwhat" /></p>
+![C](https://img.icons8.com/color/48/c-programming.png)
+![Java](https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png)
+![Python](https://img.icons8.com/color/48/python--v1.png)
+![Flask](https://img.icons8.com/ios-filled/50/000000/flask.png)
+![HTML5](https://img.icons8.com/color/48/html-5--v1.png)
+![CSS3](https://img.icons8.com/color/48/css3.png)
+![BS5](https://img.icons8.com/color/48/bootstrap--v2.png)
+![JS](https://img.icons8.com/color/48/javascript--v1.png)
+![React](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png)
+![Node](https://img.icons8.com/color/48/nodejs.png)
+![Express](https://img.icons8.com/ios/48/express-js.png)
+![Postman](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png)
+![MySQL](https://img.icons8.com/color/48/mysql-logo.png)
+![Oracle](https://img.icons8.com/color/48/oracle-logo.png)
+![MongoDB](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-mongodb-a-cross-platform-document-oriented-database-program-logo-color-tal-revivo.png)
+![Jetbrains](https://img.icons8.com/fluency/48/jetbrains-toolbox.png)
+![Git](https://img.icons8.com/color/48/git.png)
+![GitHub](https://img.icons8.com/glyph-neue/48/github.png)
+![GCP](https://img.icons8.com/color/48/google-cloud.png)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahillwhat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
