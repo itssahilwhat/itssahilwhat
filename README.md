@@ -6,7 +6,7 @@
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
-- 🌱 I’m currently learning **Python, Mathematics for ML and Data Science**
+- 🌱 I’m currently learning **Python and Mathematics for ML and Data Science**
 - 📫 How to reach me **bhatiasahil1515@gmail.com**
 
 ## Connect with me:
