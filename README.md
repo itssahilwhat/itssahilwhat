@@ -13,7 +13,7 @@
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/itssahillwhat)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-bhatia-140610250/)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=x)](https://twitter.com/itssahillwhat)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=x)](https://x.com/itssahillwhat)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatiasahil1515@gmail.com)
 
 ## Languages and Tools:
