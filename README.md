@@ -40,5 +40,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahilwhat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&theme=darkhub&locale=en&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=darkhub&locale=en&layout=compact)
