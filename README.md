@@ -2,18 +2,18 @@
 # Hello There👋, I'm Sahil Bhatia
 ### Passionate about AI/ML
 
-![Profile Views](https://komarev.com/ghpvc/?username=itssahillwhat&label=Profile%20views&color=000000&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=itssahilwhat&label=Profile%20views&color=000000&style=flat)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Python and Mathematics for ML and Data Science**
 - 📫 How to reach me **bhatiasahil1515@gmail.com**
 
 ## Connect with me:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/itssahillwhat)
+[![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)](https://github.com/itssahilwhat)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-bhatia-140610250/)
-[![X](https://img.shields.io/badge/-X-black?style=flat&logo=x)](https://x.com/itssahillwhat)
+[![X](https://img.shields.io/badge/-X-black?style=flat&logo=x)](https://x.com/itssahilwhat)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bhatiasahil1515@gmail.com)
 
 ## Languages and Tools:
@@ -38,7 +38,7 @@
 ![GitHub](https://img.icons8.com/glyph-neue/48/github.png)
 ![GCP](https://img.icons8.com/color/48/google-cloud.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahillwhat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahilwhat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahillwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)
