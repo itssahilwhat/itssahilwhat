@@ -38,7 +38,7 @@
 ![GitHub](https://img.icons8.com/glyph-neue/48/github.png)
 ![GCP](https://img.icons8.com/color/48/google-cloud.png)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahilwhat&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=itssahilwhat&show_icons=true&locale=en&layout=compact&theme=dark)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&theme=dark&locale=en&layout=compact)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=dark&locale=en&layout=compact)
