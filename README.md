@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/736x/eb/77/67/eb77672aaad3a890f39df8acdf25cc6d.jpg)
+![MasterHead](https://i.pinimg.com/originals/8e/e8/59/8ee859b07b1167e0f16b45a2b3477427.gif)
 # Hello There👋, I'm Sahil Bhatia
 ### Passionate about AI/ML
 
