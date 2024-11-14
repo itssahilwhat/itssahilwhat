@@ -4,7 +4,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itssahilwhat&label=Profile%20views&color=000000&style=flat)
 
-[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahilwhat&show_icons=true&theme=tokyonight&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=itssahilwhat&show_icons=true&theme=darkhub&locale=en&layout=compact)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🌱 I’m currently learning **Python and Mathematics for ML and Data Science**
 - 📫 How to reach me **bhatiasahil1515@gmail.com**
