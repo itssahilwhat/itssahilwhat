@@ -4,9 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning;Data+Analyst;Problem+Solver" />
 </p>
 
-
-<br />
-
 ---
 
 ### 👨‍💻 About Me
@@ -37,6 +34,7 @@
 <p align="center">
     <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kishan's github stats" />
     <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssahilwhat&layout=compact&theme=dark&hide_border=true" />
+    <img align="center" width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=dark&locale=en&layout=compact" />
 <p>
 
 ---
