@@ -1,7 +1,7 @@
 <h1 align="center">Hello There👋, I'm Sahil Bhatia</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Passionate+Developer;Machine+Learning;Data+Analyst;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Passionate+Developer;Machine+Learning;Data+Analyst;Problem+Solver" />
 </p>
 
 
