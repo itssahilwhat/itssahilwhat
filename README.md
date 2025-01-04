@@ -20,7 +20,8 @@
 
 <p align="center">
   <code><img height="25" alt="python" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="25" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
+  <code><img height="25" alt="R" src="https://raw.githubusercontent.com/github/explore/main/topics/r/r.png"></code>
+  <code><img height="25" alt="scikit-learn" src="https://raw.githubusercontent.com/github/explore/main/topics/scikit-learn/scikit-learn.png"></code>
   <code><img height="25" alt="flask" src="https://raw.githubusercontent.com/github/explore/main/topics/flask/flask.png"></code>
   <code><img height="25" alt="mysql" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png"></code>
   <code><img height="25" alt="react" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png"></code>
