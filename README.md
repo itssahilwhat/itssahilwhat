@@ -43,7 +43,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=itssahilwhat&theme=darkhub&no-frame=true&row=1&column=6" alt="Kishan's GitHub Trophies" />
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=itssahilwhat&theme=darkhub&no-frame=true&row=1&column=6" alt="Sahil's GitHub Trophies" />
 <p>
 
 ---
