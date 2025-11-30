@@ -33,7 +33,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Kishan's github stats" />
+    <img align="center" width="50%" src="https://github-readme-stats.vercel.app/api?username=itssahilwhat&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Sahil's github stats" />
     <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itssahilwhat&layout=compact&theme=dark&hide_border=true" />
     <img align="center" width="58%" src="https://github-readme-streak-stats.herokuapp.com/?user=itssahilwhat&show_icons=true&theme=dark&locale=en&layout=compact" />
 <p>
